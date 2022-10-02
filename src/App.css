@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  display: border-box;
+}
+
+.App{
+  min-height: 100vh;
+  width: 100%;
+}
+@media (max-width: 650px) {
+  .app{
+    width: 100%;
+  }
+}
